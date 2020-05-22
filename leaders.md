@@ -1,2 +1,2 @@
 ### Leaders
-* [Jacobi Avariento](mailto:jacobo.avariento@owasp.org)
+* [Jacobo Avariento](mailto:jacobo.avariento@owasp.org)
