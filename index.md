@@ -25,4 +25,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Contact information
 
-{leaders.md}
+See right column with Meetup link and OWASP Barcelona leaders contact information.
