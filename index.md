@@ -10,7 +10,7 @@ region: Europe
 ## Welcome! Bienvenido/a!
 Welcome to the OWASP Barcelona Chapter page. We will organize periodic events to share interesting topics regarding cybersecurity, secure software development (SecDevOps), hardware hacking, Industrial Control Systems hacking, etc. As Barcelona is an international hub, some talks will be given in English and others in Spanish.
 
-Bienvenido al capítulo de OWASP en Barcelona. Dentro de la actividad del capítulo, organizaremos eventos periódicos para promover información relevante sobre cibersecuridad, desarrollo seguro de software (SecDevOps), hacking de hardware, seguridad en entornos industriales, etc. Como Barcelona es un hub internacional, algunas charlas serán en inglés y otras en castellano.
+Bienvenida/o al capítulo de OWASP en Barcelona. Dentro de la actividad del capítulo, organizaremos eventos periódicos para promover información relevante sobre cibersecuridad, desarrollo seguro de software (SecDevOps), hacking de hardware, seguridad en entornos industriales, etc. Como Barcelona es un hub internacional, algunas charlas serán en inglés y otras en castellano.
 
 ## Local News
 - Meeting Location: Coming soon!
