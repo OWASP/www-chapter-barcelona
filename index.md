@@ -25,4 +25,3 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Contact information
 * [Meetup](https://www.meetup.com/OWASP-Barcelona/)
-* [LinkedIn](https://www.linkedin.com/company/owasp-barcelona/)
