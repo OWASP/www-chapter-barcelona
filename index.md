@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Barcelona
 tags: barcelona
 region: Europe
+country: Spain
 meetup-group: OWASP-Barcelona
 postal-code: 08001
 
