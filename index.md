@@ -10,6 +10,8 @@ postal-code: 08001
 
 ---
 
+<img src="https://github.com/OWASP/www-chapter-barcelona/blob/adb387ab53fbaeb6b6a12ba6a73aed5338cdb4cb/assets/images/logo-owasp-barcelona.jpeg" />
+
 # Benvinguts! Bienvenido! Welcome!
 Welcome to the OWASP Barcelona Chapter page. We will organize periodic events to share interesting topics regarding all things cybersecurity. As Barcelona is an international hub, some talks will be given in English and others in Spanish, however we will accommodate for both languages at all talks.
 
