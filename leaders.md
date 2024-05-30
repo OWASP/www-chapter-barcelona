@@ -2,4 +2,4 @@
 
 * [Conor Rynne](mailto:conor.rynne@owasp.org)
 * [Andres Galarza](mailto:andres.galarza@owasp.org)
-* [Oihana Gallagstegi](oihana.gallagstegi@owasp.org)
+* [Oihana Gallastegi](oihana.gallastegi@owasp.org)
