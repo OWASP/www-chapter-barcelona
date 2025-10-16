@@ -1,0 +1,29 @@
+community:
+  - name: chapter-barcelona
+    platform: slack
+    url: https://owasp.slack.com/archives/C06NWCZ702H
+leaders:
+  - name: Conor Rynne
+    email: conor.rynne@owasp.org
+  - name: Andres Galarza
+    email: andres.galarza@owasp.org
+    github: redyunk
+  - name: Oihana Gallastegi
+    email: oihana.gallastegi@owasp.org
+location:
+  country: Spain
+  country_code: ES
+  region: Catalonia
+  city: Barcelona
+  latitude: 41.3828939
+  longitude: 2.1774322
+name: OWASP Barcelona
+repositories:
+  - name: www-chapter-barcelona
+    url: https://github.com/OWASP/www-chapter-barcelona
+    description: OWASP Foundation Web Repository
+tags:
+  - barcelona
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-barcelona
