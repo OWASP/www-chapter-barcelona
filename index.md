@@ -18,7 +18,7 @@ Welcome to the OWASP Barcelona Chapter page. We will organize periodic events to
 Bienvenido al capítulo de OWASP en Barcelona. Dentro de la actividad del capítulo, organizaremos eventos periódicos para promover información relevante sobre todo lo relacionado con la ciberseguridad. Como Barcelona es un hub internacional, algunas charlas serán en inglés y otras en castellano, pero nos acomodaremos a ambos idiomas en todas las charlas.
 
 ## Speaking at OWASP Barcelona Chapter Events
-We have an open call for speakers at our events. If you would like to present a talk on Application Security at our events, please review and agree to the [OWASP Speaker Agreement](/www-policy/speaker-agreement) send the following to either [Conor Rynne](mailto:conor.rynne@owasp.org) or [Andres Galarza](mailto:andres.galarza@owasp.org):
+We have an open call for speakers at our events. If you would like to present a talk on Application Security at our events, please review and agree to the [OWASP Speaker Agreement](/www-policy/legal/speaker-agreement) send the following to either [Conor Rynne](mailto:conor.rynne@owasp.org) or [Andres Galarza](mailto:andres.galarza@owasp.org):
 
 - Proposed talk title
 - Abstract
