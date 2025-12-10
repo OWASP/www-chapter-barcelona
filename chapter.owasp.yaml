@@ -7,7 +7,7 @@ leaders:
     email: conor.rynne@owasp.org
   - name: Andres Galarza
     email: andres.galarza@owasp.org
-    github: redyunk
+    github: agg-owasp-barna
   - name: Oihana Gallastegi
     email: oihana.gallastegi@owasp.org
 location:
@@ -24,6 +24,6 @@ repositories:
     description: OWASP Foundation Web Repository
 tags:
   - barcelona
-  - custom-tag-1
-  - custom-tag-2
+  - barna
+  - catalonia
 website: https://owasp.org/www-chapter-barcelona
