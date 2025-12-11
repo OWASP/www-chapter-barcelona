@@ -10,12 +10,10 @@ country: Spain
 
 ---
 
-<img src="https://github.com/OWASP/www-chapter-barcelona/blob/adb387ab53fbaeb6b6a12ba6a73aed5338cdb4cb/assets/images/logo-owasp-barcelona.jpeg?raw=true" />
+<img src="/assets/images/logo-owasp-barcelona.jpeg" />
 
-# Benvingut/da! Bienvenido/a! Welcome!
-Welcome to the OWASP Barcelona Chapter page. We will organize periodic events to share interesting topics regarding all things cybersecurity. As Barcelona is an international hub, some talks will be given in English and others in Spanish, however we will accommodate for both languages at all talks.
-
-Bienvenido al capítulo de OWASP en Barcelona. Dentro de la actividad del capítulo, organizaremos eventos periódicos para promover información relevante sobre todo lo relacionado con la ciberseguridad. Como Barcelona es un hub internacional, algunas charlas serán en inglés y otras en castellano, pero nos acomodaremos a ambos idiomas en todas las charlas.
+# Benvingut/da!
+Welcome to the OWASP Barcelona Chapter page. We organize events to share interesting topics regarding all things cybersecurity. As Barcelona is an international hub, talks will be given in English, however we will accommodate as best we can for Spanish and Catalan at all talks.
 
 ## Speaking at OWASP Barcelona Chapter Events
 We have an open call for speakers at our events. If you would like to present a talk on Application Security at our events, please review and agree to the [OWASP Speaker Agreement](/www-policy/legal/speaker-agreement) send the following to either [Conor Rynne](mailto:conor.rynne@owasp.org) or [Andres Galarza](mailto:andres.galarza@owasp.org):
