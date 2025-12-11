@@ -12,7 +12,7 @@ country: Spain
 
 <img src="https://github.com/OWASP/www-chapter-barcelona/blob/adb387ab53fbaeb6b6a12ba6a73aed5338cdb4cb/assets/images/logo-owasp-barcelona.jpeg?raw=true" />
 
-# Benvingut/da! Bienvenido! Welcome!
+# Benvingut/da! Bienvenido/a! Welcome!
 Welcome to the OWASP Barcelona Chapter page. We will organize periodic events to share interesting topics regarding all things cybersecurity. As Barcelona is an international hub, some talks will be given in English and others in Spanish, however we will accommodate for both languages at all talks.
 
 Bienvenido al capítulo de OWASP en Barcelona. Dentro de la actividad del capítulo, organizaremos eventos periódicos para promover información relevante sobre todo lo relacionado con la ciberseguridad. Como Barcelona es un hub internacional, algunas charlas serán en inglés y otras en castellano, pero nos acomodaremos a ambos idiomas en todas las charlas.
