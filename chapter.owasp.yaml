@@ -2,14 +2,17 @@ community:
   - name: chapter-barcelona
     platform: slack
     url: https://owasp.slack.com/archives/C06NWCZ702H
+events:
+  - title: OWASP Barcelona events on Luma
+    url: https://luma.com/owasp-barcelona-chapter
 leaders:
-  - name: Conor Rynne
-    email: conor.rynne@owasp.org
   - name: Andres Galarza
     email: andres.galarza@owasp.org
     github: agg-owasp-barna
-  - name: Oihana Gallastegi
-    email: oihana.gallastegi@owasp.org
+  - name: Dag Flachet
+    email: dag.flachet@owasp.org
+  - name: Mykhailo Sindieiev
+    email: mykhailo_sindieiev@owasp.org
 location:
   country: Spain
   country_code: ES
@@ -22,6 +25,9 @@ repositories:
   - name: www-chapter-barcelona
     url: https://github.com/OWASP/www-chapter-barcelona
     description: OWASP Foundation Web Repository
+social_media:
+  - platform: linkedin
+    url: https://www.linkedin.com/company/owasp-barcelona/
 tags:
   - barcelona
   - barna
